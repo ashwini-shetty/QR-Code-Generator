@@ -1,4 +1,4 @@
-# QR Code Generator with Tkinter
+# QR Code Generator
 
 This is a simple Python application for generating QR codes based on a user-provided URL using the Tkinter library for the GUI. The application allows users to enter a URL, generate a QR code, save the QR code as an image, and clear the URL and QR code.
 
